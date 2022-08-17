@@ -2,7 +2,7 @@ baseURL = "https://bitbite-io.github.io/home/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "assetbase"
 # Main Menu
 [[menu.main]]
 name = "Home"
