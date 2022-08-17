@@ -9,12 +9,12 @@ name = "Home"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "Services"
-url = "#services"
+name = "Platform"
+url = "platform"
 weight = 2
 [[menu.main]]
 name = "Pricing"
-url = "#pricing"
+url = "pricing"
 weight = 3
 [[menu.main]]
 name = "News"
@@ -27,21 +27,25 @@ weight = 5
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "Platform"
+url = "platform"
 weight = 1
+[[menu.sitemap]]
+name = "Pricing"
+url = "pricing"
+weight = 2
 [[menu.sitemap]]
 name = "Frequently Ask Questions"
 url = "#"
-weight = 2
+weight = 3
 [[menu.sitemap]]
 name = "Privacy & Policy"
 url = "#"
-weight = 3
+weight = 4
 [[menu.sitemap]]
 name = "Latest Article"
 url = "#"
-weight = 4
+weight = 5
 
 [params]
 blogPageURL = "news"
@@ -53,10 +57,10 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
+address = "Rådhuset, Vaksalagatan 2, 753 20 Uppsala, Sweden"
+email = "sales@bitbite.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+phone = "+(46) 833 525 32 83"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
